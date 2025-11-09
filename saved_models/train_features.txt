@@ -1,0 +1,10 @@
+Daily Time Spent on Site
+Age
+Area Income
+Daily Internet Usage
+City
+Gender
+Country
+Hour
+Day
+Month
