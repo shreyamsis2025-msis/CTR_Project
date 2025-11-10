@@ -6,3 +6,6 @@ matplotlib
 joblib
 faker
 lightgbm
+seaborn
+streamlit
+plotly
